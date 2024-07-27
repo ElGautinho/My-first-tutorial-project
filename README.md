@@ -21,3 +21,4 @@ After completing personnal informations in the form the user will continue to th
 2. Tools experience: among the tools we use to make tasks what tools they have been using this past 3 years?.
 
 3. Which skills are they going to learn in other to improve inovative ideas?  
+
