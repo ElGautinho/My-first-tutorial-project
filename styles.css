@@ -96,7 +96,9 @@ label {
     padding: 1rem 2.25rem;
     margin: 0px 350px 15px 350px;
     border-radius: 0.25rem;
-    border: 4px solid white;
+    border: 4px solid burlywood;
+    background-color: black;
+    opacity: 75%;
   }
   
   .form-group {
@@ -110,10 +112,10 @@ label {
     height: 2.375rem;
     padding: 0.375rem 0.75rem;
     color: #495057;
-    background-color: #fff;
+    background-color: #e5e9a8;
     background-clip: padding-box;
-    border: 1px solid #ced4da;
-    border-radius: 0.25rem;
+    border: 2px solid burlywood;
+    border-radius: 1.25rem;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
   
@@ -140,11 +142,12 @@ label {
   
   .submit-button {
     display: block;
-    width: 100%;
-    padding: 0.75rem;
-    background: var(--color-green);
-    color: inherit;
-    border-radius: 2px;
+    width: 30%;
+    margin-left: 200px;
+    padding: 10px 0px 10px 0px;
+    background: rgb(138, 125, 14);
+    color: whitesmoke;
+    border-radius: 5px;
     cursor: pointer;
   }
   
