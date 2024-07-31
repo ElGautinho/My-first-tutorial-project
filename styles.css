@@ -47,14 +47,12 @@ h1, p {
     margin-bottom: 0.8rem;
 }
 .header {
-    padding: 0 0.625rem;
-    margin-bottom: 1.875rem;
+  margin-top: -50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
   }
 
- #logo{
-    position: relative;
-    margin: -40px 560px -2px ;
- } 
   .description {
     font-style: italic;
     font-weight: 200;
@@ -95,10 +93,10 @@ label {
   form {
     padding: 1rem 2.25rem;
     margin: 0px 350px 15px 350px;
-    border-radius: 0.25rem;
+    border-radius: 2.25rem;
     border: 4px solid burlywood;
     background-color: black;
-    opacity: 75%;
+    opacity: 65%;
   }
   
   .form-group {
@@ -146,8 +144,34 @@ label {
     margin-left: 200px;
     padding: 10px 0px 10px 0px;
     background: rgb(138, 125, 14);
-    color: whitesmoke;
+    color: rgb(82, 72, 29);
     border-radius: 5px;
     cursor: pointer;
   }
+:hover.submit-button{
+  background-color: rgb(212, 208, 171);
+  size: bold;
+}
+  @media (max-width: 1020px) {
+    
+    form {
+      min-width: 400px;
+    }
+    .container {
+      flex-direction: column;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    
+    form {
+      min-width: 400px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+  form {
+    min-width: 400px;
+  }
+}
   
