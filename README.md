@@ -22,3 +22,18 @@ After completing personnal informations in the form the user will continue to th
 
 3. Which skills are they going to learn in other to improve inovative ideas?  
 
+** - [My process](#my-process)
+
+*The fisrt step/: I just create a container On a page in which i will firstly put the Logo the Header and the first paragraph of my code. And i will use the flexbox to display them on the center of my page using a class called Header.
+
+*The second step/: I now create a box that will take all my group questions to fill the form.
+
+*The fird step/: I put my first group of questions using labels and inputs displayed using a flex direction form the name to the D.O.B. 
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
