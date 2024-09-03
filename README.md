@@ -30,6 +30,7 @@ After completing personnal informations in the form the user will continue to th
 
 *The fird step/: I put my first group of questions using labels and inputs displayed using a flex direction form the name to the D.O.B. 
 
+*The fourth step/: My other group of question regarding the personnal skills or knowledge of the candidates. using a select button and the radio button to choose what feat best to their answers. 
 
 ### Built with
 - Semantic HTML5 markup
