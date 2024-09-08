@@ -32,9 +32,13 @@ After completing personnal informations in the form the user will continue to th
 
 *The fourth step/: My other group of question regarding the personnal skills or knowledge of the candidates. using a select button and the radio button to choose what feat best to their answers. 
 
+*The fith step/: an other select bottom that contains an other groupe of question with a kind of multiple choice of the answers.
+
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 
+#### What i learned 
+1. working with a mentor who is guiding you through the process with tools that helps you achieve more things with less mistake.
